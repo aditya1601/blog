@@ -1,9 +1,7 @@
-[//]: # (This template replaces README.md when someone creates a new repo with the fastpages template.)
-
 ![](https://github.com/aditya1601/fastpages_blog/workflows/CI/badge.svg) 
 ![](https://github.com/aditya1601/fastpages_blog/workflows/GH-Pages%20Status/badge.svg) 
 
-https://aditya1601.github.io/
+https://aditya1601.github.io/blog/
 
 # Blogs by Aditya
 I write on ML and tech that excites me!
